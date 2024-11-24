@@ -10,15 +10,17 @@
 <p align=center>In another dimension 🪐 discovering problems <br> to invent solutions.</p>
 
 ###
-
+ 
 ## About me.
-👾 Fullstack developer in development.
-<br>🐍 I'm currenly learning **Python**.
-<br>📕 Improving my knowledge in **Javascript**, **Node** and **React**.
-<br>🎯 A cybersecurity enthusiast.
-<br>✨ I also like *music*, *reading* and *astronomy*.
+<img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" align="right" width="180px"/>
 
-<!--IMAGEM DO GATO<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/775dfae9-f9b5-46c9-bcd8-62e7d40ba177/dg8idr3-46121b2a-2beb-4f64-9caa-0d046f39eac0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3NWRmYWU5LWY5YjUtNDZjOS1iY2Q4LTYyZTdkNDBiYTE3N1wvZGc4aWRyMy00NjEyMWIyYS0yYmViLTRmNjQtOWNhYS0wZDA0NmYzOWVhYzAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.miZMDoaMYjzwzNQZzuwxLvu2wrgaxbdJ_47bCgtl1PU" width="50px"/>-->
+<div align="left" width="100%">
+	👾 Fullstack developer in development.
+	<br>🐍 I'm currenly learning <b>Python</b>.
+	<br>📕 Improving my knowledge in <b>Javascript</b>, <b>Node</b> and <b>React</b>.
+	<br>🎯 A cybersecurity enthusiast.
+	<br>✨ I also like <i>music</i>, <i>reading</i>, <i>rpg</i> and <i>astronomy</i>.
+</div>
 
 ###
 
@@ -45,6 +47,6 @@
 
 ## Stats.
 <div align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=IcaroSilva28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefyt&locale=en&hide_border=true&order=1" height="150px" alt="stats graph"  />
-		<img src="https://streak-stats.demolab.com?user=IcaroSilva28&locale=en&mode=weekly&theme=buefy&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150px" alt="streak graph"  />
+		<img src="https://github-readme-stats.vercel.app/api?username=IcaroSilva28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefyt&locale=en&hide_border=true&order=1" height="190px" alt="stats graph"  />
+		<img src="https://streak-stats.demolab.com?user=IcaroSilva28&locale=en&mode=weekly&theme=buefy&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="190px" alt="streak graph"  />
 </div>
