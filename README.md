@@ -1,12 +1,14 @@
 
 <br clear="both">
 <h1 align=center>🚀 Hey! I'm Ícaro.
-		<div align=center>
-			<a href=https://www.linkedin.com/in/icaro-silva28/><img  src="https://img.shields.io/static/v1?label&message=Linkedin&color=white&style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
-			<a href=https://discord.com/lencastre#6715><img  src="https://img.shields.io/static/v1?label&message=Discord&color=F73F52&style=for-the-badge&logo=Discord&logoColor=white"/></a>
-			<img  src="https://img.shields.io/static/v1?label&message=In progress. . .&color=7986C7&style=for-the-badge&logo=Ghost&logoColor=white"/>
-		</div>
+	<div align=center>
+		<br>
+		<a href=https://www.linkedin.com/in/icaro-silva28/><img  src="https://img.shields.io/static/v1?label&message=Linkedin&color=white&style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
+		<a href=https://discord.com/lencastre#6715><img  src="https://img.shields.io/static/v1?label&message=Discord&color=F73F52&style=for-the-badge&logo=Discord&logoColor=white"/></a>
+		<img  src="https://img.shields.io/static/v1?label&message=In progress. . .&color=7986C7&style=for-the-badge&logo=Ghost&logoColor=white"/>
+	</div>
 </h1>
+
 <p align=center>In another dimension 🪐 discovering problems <br> to invent solutions.</p>
 
 ###
