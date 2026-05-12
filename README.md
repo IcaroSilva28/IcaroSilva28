@@ -5,7 +5,7 @@
 		<br>
 		<a href=https://www.linkedin.com/in/icaro-silva28/><img  src="https://img.shields.io/static/v1?label&message=Linkedin&color=white&style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
 		<a href=https://discord.com/lencastre#6715><img  src="https://img.shields.io/static/v1?label&message=Discord&color=F73F52&style=for-the-badge&logo=Discord&logoColor=white"/></a>
-		<img  src="https://img.shields.io/static/v1?label&message=In progress. . .&color=7986C7&style=for-the-badge&logo=Ghost&logoColor=white"/>
+		<a href=https://icarosilva28.github.io/my-portifolio/><img  src="https://img.shields.io/static/v1?label&message=Portifolio&color=FFDE03&style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 	</div>
 </h1>
 
